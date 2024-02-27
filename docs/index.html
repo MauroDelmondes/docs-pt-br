@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
     <title>docsify</title>
@@ -12,7 +12,7 @@
       name="keywords"
       content="doc,docs,documentation,gitbook,creator,generator,github,jekyll,github-pages"
     />
-    <meta name="description" content="A magical documentation generator." />
+    <meta name="description" content="Um gerador mágico de documentação." />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
@@ -58,7 +58,7 @@
     </style>
     <script>
       (function () {
-        const lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn)\//);
+        const lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn|pt-br)\//);
 
         // Set html "lang" attribute based on URL
         if (lang) {
@@ -108,6 +108,7 @@
           '/de-de/': '#/de-de/',
           '/ru-ru/': '#/ru-ru/',
           '/zh-cn/': '#/zh-cn/',
+          '/pt-br/': '#/pt-br/',
           '/': '#/',
         },
         search: {
@@ -116,6 +117,7 @@
             '/de-de/': 'Keine Ergebnisse!',
             '/ru-ru/': 'Никаких результатов!',
             '/zh-cn/': '没有结果!',
+            '/pt-br/': 'Não existem resultados!',
             '/': 'No results!',
           },
           paths: 'auto',
@@ -124,15 +126,17 @@
             '/de-de/': 'Suche',
             '/ru-ru/': 'Поиск',
             '/zh-cn/': '搜索',
+            '/pt-br/': 'Pesquisar',
             '/': 'Search',
           },
-          pathNamespaces: ['/es', '/de-de', '/ru-ru', '/zh-cn'],
+          pathNamespaces: ['/es', '/de-de', '/ru-ru', '/zh-cn', '/pt-br'],
         },
         skipLink: {
           '/es/': 'Saltar al contenido principal',
           '/de-de/': 'Ga naar de hoofdinhoud',
           '/ru-ru/': 'Перейти к основному содержанию',
           '/zh-cn/': '跳到主要内容',
+          '/pt-br/': 'Ir para o conteúdo principal',
         },
         vueComponents: {
           'button-counter': {
