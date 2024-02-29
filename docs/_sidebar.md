@@ -1,28 +1,28 @@
-- Getting started
+- Começando
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Começo rápido](quickstart.md)
+  - [Escrevendo mais páginas](more-pages.md)
+  - [Barra de navegação customizada](custom-navbar.md)
+  - [Página de capa](cover.md)
 
-- Customization
+- Customização
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+  - [Configuração](configuration.md)
+  - [Temas](themes.md)
+  - [Lista de Plugins](plugins.md)
+  - [Escreva um Plugin](write-a-plugin.md)
+  - [Configuração do Markdown](markdown.md)
+  - [Highlight de linguagem](language-highlight.md)
   - [Emoji](emoji.md)
 
-- Guide
+- Guia
 
   - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
+  - [Ajudantes](helpers.md)
+  - [Compatibilidade com Vue](vue.md)
   - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
+  - [Modo Offline (PWA)](pwa.md)
   - [Embed Files](embed-files.md)
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- [Incrível docsify](awesome.md)
+- [Notas de atualizações](changelog.md)
