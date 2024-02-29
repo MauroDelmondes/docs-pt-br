@@ -1,30 +1,30 @@
 ## docsify
 
-> A magical documentation site generator.
+> Um gerador mágico de site de documentação.
 
-## What it is
+## O que é
 
-Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+Docsify gera seu site de documentação na hora. Diferente do GitBook, o Docsify não gera arquivos html estáticos. Em vez disso ele carrega e converte os seus aquivos Markdown de uma maneira inteligente, apresentando-os como um site. Para começar a usá-lo, tudo que você precisa fazer é criar um arquivo `index.html` e [hospedar o mesmo no GitHub Pages](deploy.md).
 
-See the [Quick start](quickstart.md) guide for more details.
+Veja o guia de [Começo rápido](quickstart.md) para mais detalhes.
 
-## Features
+## Recursos
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
+- Sem a criação de arquivos HTML estáticos
+- Simples e leve
+- Plugin de busca inteligente por todo o texto
+- Múltiplos temas
+- Plugin API útil
+- Suporte a emojis
 
-## Examples
+## Exemplos
 
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
+Dê uma olhada na [Demonstração](https://github.com/docsifyjs/awesome-docsify#showcase) para ver o docsify em uso.
 
-## Donate
+## Doação
 
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
+Por favor, se você acredita que o Docsify é útil para você ou que o meu trabalho é útil, considere fazer uma doação. Eu ficarei feliz se você me ajudar a [comprar um copo de café](https://github.com/QingWei-Li/donate). :heart:
 
-## Community
+## Comunidade
 
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR).
+Os usuários e o time de desenvolvimento estão no [servidor Discord](https://discord.gg/3NwKFyR).
